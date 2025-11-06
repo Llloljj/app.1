@@ -1,0 +1,5 @@
+{
+  "name": "Mobile Banking App",
+  "description": "A sleek, mobile-first banking application for managing your finances on the go. View balances, deposit, withdraw, and transfer funds with ease in a modern and secure interface.",
+  "requestFramePermissions": []
+}
